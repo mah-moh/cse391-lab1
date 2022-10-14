@@ -146,3 +146,14 @@ nav a:hover {
     border-radius: 8px;
     padding: 20px;
 }
+
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: black url("https://i.gifer.com/758X.gif") no-repeat center center;
+    background-size: 15%;
+    z-index: 99;
+}
